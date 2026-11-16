@@ -1,0 +1,14 @@
+{
+  "name": "sentencje",
+  "version": "1.0.0",
+  "description": "Laboratorium 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Adrian Czarnota",
+  "license": "ISC",
+  "type": "module"
+}
